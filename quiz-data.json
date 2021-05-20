@@ -1,0 +1,73 @@
+[
+    {
+      "question": " Which one of the following river flows between Vindhyan and Satpura ranges?",
+      "correct_answer": "Narmada",
+      "incorrect_answers": [
+        "Mahanadi",
+        "Son",
+        "Netravati"
+      ]
+    },
+    {
+   
+      "question": "2. The Central Rice Research Station is situated in",
+      "correct_answer": "Cuttack",
+      "incorrect_answers": [
+        "Chennai",
+        "Banglore",
+        "Mumbai"
+      ]
+    },
+    {
+      "question": "The metal whose salts are sensitive to light is?",
+      "correct_answer": "Silver",
+      "incorrect_answers": ["zinc", "Copper", "Gold"]
+    },
+    {
+      "question": "Which one of the following rivers originates in Brahmagiri range of Western Ghats?",
+      "correct_answer": "Cauvery",
+      "incorrect_answers": [
+        "Tapti",
+        "Krishna",
+        "Yamuna"
+      ]
+    },
+    {
+      
+      "question": "The country that has the highest in Barley Production?",
+      "correct_answer": "Russia",
+      "incorrect_answers": ["India", "China", "Germany"]
+    },
+    {
+
+      "question": "What%20is%20the%20capital%20of%20Jamaica%3F",
+      "correct_answer": "Kingston",
+      "incorrect_answers": ["Rio%20de%20Janeiro", "Dar%20es%20Salaam", "Kano"]
+    },
+    {
+      "question": "23. Which of the following is not a nuclear power center?",
+      "correct_answer": "Chamera",
+      "incorrect_answers": ["Kakrapara", "Kota", "Narora"]
+    },
+    {
+      "question": "Kangaroos keep food in their pouches next to their children.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "question": "FFC stands for",
+      "correct_answer": "Film Finance Corporation",
+      "incorrect_answers": [
+        "Federation of Football Council",
+        "Foreign Finance Corporation",
+        "None of these"
+      ]
+    },
+    {
+      "type": "multiple",
+      "question": "Which is the country which has the Great Barrier Reef?",
+      "correct_answer": "Australia",
+      "incorrect_answers": ["England", " New Zealand", "Ireland"]
+    }
+  ]
+  
